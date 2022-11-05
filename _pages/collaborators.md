@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Collaborators"
-permalink: /Collaborators/
+permalink: /collaborators/
 author_profile: true
 
 ---
