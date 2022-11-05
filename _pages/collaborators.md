@@ -11,6 +11,8 @@ author_profile: true
 International
 ======
 
+![International collaborators](/samueleramellini.github.io/images/int_collab.png)
+
 
 Italian
 ======
