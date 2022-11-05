@@ -1,3 +1,10 @@
+---
+title: "R for Biologists"
+collection: teaching
+type: "Teaching assistance"
+permalink: /teaching/Rcourse_2022
+venue: "Max Planck Institute of Animal Behavior"
+date: 2022-11-01
 location: "Radolfzell, Germany"
  ---
 
