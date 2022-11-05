@@ -11,7 +11,7 @@ author_profile: true
 International
 ======
 
-<br/><img src='/images/int_collab.png'>"
+<br/><img src='/images/int_collab.png'>
 
 Italian
 ======
