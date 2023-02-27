@@ -1,5 +1,5 @@
 ---
-title: "Italian odonates in the Pandoras box: A comprehensive DNA barcoding inventory shows taxonomic warnings at the Holarctic scale"
+title: "Italian odonates in the Pandora's box: A comprehensive DNA barcoding inventory shows taxonomic warnings at the Holarctic scale"
 collection: publications
 permalink: /publication/2020-08-04-Italian-odonates-in-the-Pandoras-box-A-comprehensive-DNA-barcoding-inventory-shows-taxonomic-warnings-at-the-Holarctic-scale.md
 date: 2020-08-04
